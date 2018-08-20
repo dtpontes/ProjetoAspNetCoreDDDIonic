@@ -1,0 +1,9 @@
+D:\Projetos\ionic3xap\Fontes\YouLearn\YouLearn.Shared\bin\Debug\netcoreapp2.1\YouLearn.Shared.deps.json
+D:\Projetos\ionic3xap\Fontes\YouLearn\YouLearn.Shared\bin\Debug\netcoreapp2.1\YouLearn.Shared.dll
+D:\Projetos\ionic3xap\Fontes\YouLearn\YouLearn.Shared\bin\Debug\netcoreapp2.1\YouLearn.Shared.pdb
+D:\Projetos\ionic3xap\Fontes\YouLearn\YouLearn.Shared\obj\Debug\netcoreapp2.1\YouLearn.Shared.csprojAssemblyReference.cache
+D:\Projetos\ionic3xap\Fontes\YouLearn\YouLearn.Shared\obj\Debug\netcoreapp2.1\YouLearn.Shared.csproj.CoreCompileInputs.cache
+D:\Projetos\ionic3xap\Fontes\YouLearn\YouLearn.Shared\obj\Debug\netcoreapp2.1\YouLearn.Shared.AssemblyInfoInputs.cache
+D:\Projetos\ionic3xap\Fontes\YouLearn\YouLearn.Shared\obj\Debug\netcoreapp2.1\YouLearn.Shared.AssemblyInfo.cs
+D:\Projetos\ionic3xap\Fontes\YouLearn\YouLearn.Shared\obj\Debug\netcoreapp2.1\YouLearn.Shared.dll
+D:\Projetos\ionic3xap\Fontes\YouLearn\YouLearn.Shared\obj\Debug\netcoreapp2.1\YouLearn.Shared.pdb

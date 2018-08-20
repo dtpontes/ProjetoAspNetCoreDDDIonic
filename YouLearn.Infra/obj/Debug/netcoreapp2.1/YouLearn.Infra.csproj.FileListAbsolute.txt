@@ -1,0 +1,14 @@
+D:\Projetos\ionic3xap\Fontes\YouLearn\YouLearn.Infra\bin\Debug\netcoreapp2.1\YouLearn.Infra.deps.json
+D:\Projetos\ionic3xap\Fontes\YouLearn\YouLearn.Infra\bin\Debug\netcoreapp2.1\YouLearn.Infra.dll
+D:\Projetos\ionic3xap\Fontes\YouLearn\YouLearn.Infra\bin\Debug\netcoreapp2.1\YouLearn.Infra.pdb
+D:\Projetos\ionic3xap\Fontes\YouLearn\YouLearn.Infra\obj\Debug\netcoreapp2.1\YouLearn.Infra.csproj.CoreCompileInputs.cache
+D:\Projetos\ionic3xap\Fontes\YouLearn\YouLearn.Infra\obj\Debug\netcoreapp2.1\YouLearn.Infra.AssemblyInfoInputs.cache
+D:\Projetos\ionic3xap\Fontes\YouLearn\YouLearn.Infra\obj\Debug\netcoreapp2.1\YouLearn.Infra.AssemblyInfo.cs
+D:\Projetos\ionic3xap\Fontes\YouLearn\YouLearn.Infra\obj\Debug\netcoreapp2.1\YouLearn.Infra.dll
+D:\Projetos\ionic3xap\Fontes\YouLearn\YouLearn.Infra\obj\Debug\netcoreapp2.1\YouLearn.Infra.pdb
+D:\Projetos\ionic3xap\Fontes\YouLearn\YouLearn.Infra\bin\Debug\netcoreapp2.1\YouLearn.Domain.dll
+D:\Projetos\ionic3xap\Fontes\YouLearn\YouLearn.Infra\bin\Debug\netcoreapp2.1\YouLearn.Domain.pdb
+D:\Projetos\ionic3xap\Fontes\YouLearn\YouLearn.Infra\obj\Debug\netcoreapp2.1\YouLearn.Infra.csprojAssemblyReference.cache
+D:\Projetos\ionic3xap\Fontes\YouLearn\YouLearn.Infra\obj\Debug\netcoreapp2.1\YouLearn.Infra.csproj.CopyComplete
+D:\Projetos\ionic3xap\Fontes\YouLearn\YouLearn.Infra\bin\Debug\netcoreapp2.1\YouLearn.Shared.dll
+D:\Projetos\ionic3xap\Fontes\YouLearn\YouLearn.Infra\bin\Debug\netcoreapp2.1\YouLearn.Shared.pdb
